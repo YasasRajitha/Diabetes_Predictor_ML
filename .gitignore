@@ -1,2 +1,4 @@
 ddd/
 *.sh
+__pycache__/
+.idea/
